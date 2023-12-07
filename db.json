@@ -25,7 +25,26 @@
     },
     {
       "uf": "AL",
-      "nome": "Alagoas"
+      "nome": "Alagoas",
+      "cidades": [
+        "Maceió",
+        "Arapiraca",
+        "Delmiro Gouveia",
+        "Maragogi",
+        "Palmeira dos Índios",
+        "Penedo",
+        "Piaçabuçu",
+        "Rio Largo",
+        "Santana do Ipanema",
+        "São Miguel dos Campos",
+        "União dos Palmares",
+        "Atalaia",
+        "Cacimbinhas",
+        "Canapi",
+        "Coqueiro Seco",
+        "Coruripe",
+        "Delmiro Gouveia"
+      ]
     },
     {
       "uf": "AP",
