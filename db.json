@@ -48,7 +48,18 @@
     },
     {
       "uf": "AP",
-      "nome": "Amapá"
+      "nome": "Amapá",
+      "cidades": [
+        "Macapá",
+        "Oiapoque",
+        "Calçoene",
+        "Ferreira Gomes",
+        "Itaubal",
+        "Laranjal do Jari",
+        "Mazagão",
+        "Porto Grande",
+        "Santana"
+      ]
     },
     {
       "uf": "AM",
