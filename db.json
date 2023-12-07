@@ -2,7 +2,26 @@
   "estados": [
     {
       "uf": "AC",
-      "nome": "Acre"
+      "nome": "Acre",
+      "cidades": [
+        "Rio Branco",
+        "Assis Brasil",
+        "Bujari",
+        "Capixaba",
+        "Codajás",
+        "Epitaciolândia",
+        "Feijó",
+        "Jordão",
+        "Mâncio Lima",
+        "Manoel Urbano",
+        "Marechal Thaumaturgo",
+        "Pôrto Acre",
+        "Rodrigues Alves",
+        "Sena Madureira",
+        "Senador Guiomard",
+        "Taraucá",
+        "Xapuri"
+      ]
     },
     {
       "uf": "AL",
