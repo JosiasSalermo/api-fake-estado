@@ -63,7 +63,26 @@
     },
     {
       "uf": "AM",
-      "nome": "Amazonas"
+      "nome": "Amazonas",
+      "cidades": [
+        "Manaus",
+        "Parintins",
+        "Itacoatiara",
+        "Manacapuru",
+        "Iranduba",
+        "Tabatinga",
+        "Coari",
+        "Tefé",
+        "Humaitá",
+        "Borba",
+        "Benjamin Constant",
+        "Atalaia do Norte",
+        "Itamarati",
+        "Novo Aripuanã",
+        "Careiro da Várzea",
+        "Careiro Castanho",
+        "Presidente Figueiredo"
+      ]
     },
     {
       "uf": "BA",
